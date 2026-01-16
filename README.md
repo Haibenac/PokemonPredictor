@@ -1,0 +1,2 @@
+# PokemonPredictor
+Possible Agentic Model?
